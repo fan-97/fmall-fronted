@@ -1,4 +1,4 @@
-/*
+﻿/*
 * @Author: Rosen
 * @Date:   2017-05-08 15:28:19
 * @Last Modified by:   Rosen
@@ -39,8 +39,8 @@ var config = {
         'result'            : ['./src/page/result/index.js'],
     },
     output: {
-        path: './dist',
-        publicPath : '/dist',
+        path: './dist/',
+        publicPath : '/dist/',
         filename: 'js/[name].js'
     },
     externals : {
